@@ -1,5 +1,25 @@
-.item-imagem{
+.item-imagem {
   width: 512px;
   height: 328px;
   display: block;
-}  
+}
+.titulo {
+  background-color: green;
+  text-align: center;
+  color: red;
+  font-size: 32px;
+}
+.paragrafo {
+  background-color: yellow;
+  color: blue;
+  font-size: 16px;
+}
+p{
+  font-size: 12px;
+}
+.pi {
+  color: blue;
+}
+.pp {
+  color: green;
+}
