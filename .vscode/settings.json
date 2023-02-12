@@ -1,3 +1,4 @@
 {
-  "beautify.config": ""
+  "beautify.config": "",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
