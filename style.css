@@ -84,7 +84,57 @@ p {
   margin: 8px;
   border-radius: 8px;
 }
-.bdexerc1-16{
+.bdexerc1-16 {
   margin: 0;
   background-color: grey;
+}
+.bdexerc1-17 {
+  margin: 0;
+  background-color: grey;
+}
+.dvexerc1-17 {
+  margin: 0;
+  background-color: white;
+  width: 256px;
+  margin: 8px;
+  border-radius: 8px;
+}
+.h3exerc1-17 {
+  margin: 0;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 8px;
+}
+.exerc1-17 {
+  margin: 0;
+  padding: 8px;
+}
+.pexerc1-17 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  margin-top: 8px;
+}
+.iexerc1-17 {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.pexerc1-18 {
+  font-family: "Mulish", sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+.dvexerc1-19 {
+  margin: auto;
+  width: 400px;
+  background-color: grey;
+}
+.pexerc1-19 {
+  color: white;
+}
+.bdexerc1-19{
+  background-color: black;
 }
