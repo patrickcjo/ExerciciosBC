@@ -14,7 +14,7 @@
   color: blue;
   font-size: 16px;
 }
-p{
+p {
   font-size: 12px;
 }
 .pi {
@@ -22,4 +22,11 @@ p{
 }
 .pp {
   color: green;
+}
+.exer8 {
+  font-size: 34px;
+  color: red;
+}
+body {
+  background-color: yellow;
 }
