@@ -52,8 +52,39 @@ p {
   color: blue;
   font-size: 16px;
 }
-.lista-imagens{
+.lista-imagens {
   width: 512px;
   height: 328px;
   display: block;
+}
+.h1exerc1-13 {
+  color: green;
+  background-color: blue;
+}
+.bexerc1-13 {
+  background-color: red;
+}
+.hexerc1-15 {
+  font-size: 28px;
+  margin-bottom: 8px;
+  color: orange;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pexerc1-15 {
+  font-size: 18px;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pexerc1-16 {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 8px;
+}
+.bdexerc1-16{
+  margin: 0;
+  background-color: grey;
 }
