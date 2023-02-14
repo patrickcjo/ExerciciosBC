@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.app-bar {
+  position: sticky;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  box-sizing: border-box;
+  box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.2);
+}
+
+.app-bar-esquerda {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+}
+
+.app-bar-direita {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.app-bar-logo {
+  width: 36px;
+  height: 36px;
+}
+
+.app-bar-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: purple;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.cabecalho {
+  background-color: purple;
+  color: white;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.cabecalho-conteudo {
+  width: 800px;
+  margin: auto;
+}
+
+.lista-tags {
+  margin-bottom: 12px;
+}
+
+.tag {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+.cabecalho-titulo {
+  font-size: 42px;
+  line-height: 1.2;
+}
+
+.cabecalho-descricao {
+}
+
+.conteudo {
+  width: 640px;
+  margin: auto;
+}
+
+.conteudo-paragrafo {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-top: 12px;
+  text-align: justify;
+}
